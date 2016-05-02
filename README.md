@@ -15,5 +15,6 @@ Bonus points:
 - An API is great, but how about adding some UI for easy upload of the file.
 
 # Jiansen's NOTE
-## Started using the following code template
-http://www.lightbend.com/activator/template/play-java
+- Started using the [Play Java Seed code template](http://www.lightbend.com/activator/template/play-java)
+- Run and test using Activator UI
+- Screenshots of tests running on my PC is saved in the screen folder
